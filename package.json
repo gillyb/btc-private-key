@@ -1,0 +1,16 @@
+{
+  "name": "btc-private-key",
+  "version": "1.0.1",
+  "description": "Create a BTC private key from any number easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "big-integer": "1.6.26",
+    "bs58": "4.0.1",
+    "sha256": "0.2.0"
+  }
+}
