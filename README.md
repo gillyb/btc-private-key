@@ -3,6 +3,11 @@ btc-private-key
 
 Generate a BTC wallet address from a number.  
 
+Installing :  
+```
+npm install btc-private-key
+```
+  
 Usage :  
 ```
 const btcPrivateKey = require('btc-private-key');
